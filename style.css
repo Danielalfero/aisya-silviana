@@ -430,7 +430,6 @@ body {
   text-align: end;
 }
 
-
 /*CARD 4*/
 
 .container .card:nth-child(4) .img {
@@ -484,7 +483,6 @@ body {
   color: white;
 }
 
-
 /*CARD 6*/
 .container .card:nth-child(6) .info {
   width: 50%;
@@ -514,7 +512,7 @@ body {
 .container .card:nth-child(6) .img {
   width: 50%;
   height: 100%;
-  background-image: url(Pic/Pic6.jpg);
+  background-image: url(Pic/Pic10.jpg);
   background-size: contain;
   display: flex;
   justify-content: start;
@@ -743,7 +741,6 @@ body {
 .nav-service a:hover {
   color: palegreen;
 }
-
 
 /*CONTACT*/
 /*
